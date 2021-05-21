@@ -4,6 +4,8 @@ This started off as just so much more idiarrhea but then became fun to think abo
 
 It would just be a fun exercise to go through the motions and make a, for example, PawnShop SaaS site that anyone can use to operate a real, physical pawn shop that loans Ether for hocked items of any kind. Situation evolving. 👂
 
+Maybe these are a sort of NFT. That is, a transferrable debt -- transferrable from pawn shop to pawn shop (metaphorically). Isn't an NFT a "uniquly identifiable thing"? combined with a wallet address, this is that.
+
 ## Original Spewage:
 
 ---
