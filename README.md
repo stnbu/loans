@@ -9,6 +9,9 @@ Maybe these are a sort of NFT. That is, a transferrable debt -- transferrable fr
 ## "It occurs to me" (up at the top so they are visible to "me")
 
 * Just like on ebay and in real life pawn ships, there may want to be a "sell it now" option. It actually would amount to just finalizing the agreement right away without the buyback opporunity window.
+* What if pawnbroker wants to sell "this pile of precious metal"? is there a contract for that?
+* There are many laws about identifying people and holding items for X days in case it's stollen, etc. What about that? (...)
+* Really, the contract should just have minimal types for the required information. Someone is going to have to keep a bigger database somewhere. We're gonna need a bigger database. Where is it? If it can be "distributed" just a tiny bit, it might really help grease the wheels. Maybe on IPFS a one-line discription for things that are worth tracking (inventoryID?), other stuff elsewhere. Egh.
 
 ## Original Spewage:
 
