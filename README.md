@@ -6,6 +6,10 @@ It would just be a fun exercise to go through the motions and make a, for exampl
 
 Maybe these are a sort of NFT. That is, a transferrable debt -- transferrable from pawn shop to pawn shop (metaphorically). Isn't an NFT a "uniquly identifiable thing"? combined with a wallet address, this is that.
 
+## "It occurs to me" (up at the top so they are visible to "me")
+
+* Just like on ebay and in real life pawn ships, there may want to be a "sell it now" option. It actually would amount to just finalizing the agreement right away without the buyback opporunity window.
+
 ## Original Spewage:
 
 ---
