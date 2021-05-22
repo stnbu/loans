@@ -1,0 +1,8 @@
+autofetch_sources: False
+dotenv: .env
+
+networks:
+  default: development
+
+wallets:
+  from_key: ${PRIVATE_KEY}
