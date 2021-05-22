@@ -23,6 +23,8 @@ The pawnbroker assesses an item for its condition and marketability by testing t
 To assess value of different items, pawnbrokers use guidebooks ("blue books"), catalogs, Internet search engines, and their own experience. Some pawnbrokers have trained in identification of gems, or employ a specialist to assess jewelry. One of the risks of accepting secondhand goods is that the item may be counterfeit. If the item is counterfeit, such as a fake Rolex watch, it may have only a fraction of the value of the genuine item. Once the pawnbroker determines the item is genuine and not likely stolen, and that it is marketable, the pawnbroker offers the customer an amount for it. The customer can either sell the item outright if (as in most cases) the pawnbroker is also a licensed secondhand dealer, or offer the item as collateral on a loan. Most pawnshops are willing to negotiate the amount of the loan with the client.
 ```
 
+* It feels like blockchain-abuse to think in terms of "storing the inventory" there, but if `inventoryID` and its status are available, don't we get that for free? Again, the thicc data needs to be addressed differently. But the "database of references" is there. Which will be 1000x read over write, probably.
+
 ## Original Spewage:
 
 ---
